@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>PatientPulse AI ⚡ v3.5+</h1>
-  <h3>Next-Gen AI Triage with Glassmorphism UI</h3>
+  <h1>PatientPulse AI </h1>
+  <h3>Next-Gen AI Triage</h3>
   
   [![Version](https://img.shields.io/badge/version-3.5+-blue.svg)](https://github.com/yourusername/patientpulseai)
   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
